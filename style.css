@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    color:burlywood
+}
+ul{
+    color: darkgreen;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
